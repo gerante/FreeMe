@@ -59,6 +59,11 @@ export const config = {
       category: "技术博客",
     },
     {
+      name: "Andrej Karpathy",
+      url: "https://karpathy.bearblog.dev/feed/",
+      category: "技术博客",
+    },
+    {
       name: "Google 开发者博客",
       url: "https://rsshub.rssforever.com/google/developers/en",
       category: "技术博客",
@@ -80,7 +85,7 @@ export const config = {
     },
     {
       name: "阮一峰的个人网站",
-      url :"http://www.ruanyifeng.com/blog/atom.xml",
+      url: "http://www.ruanyifeng.com/blog/atom.xml",
       category: "技术博客",
     },
     {
@@ -122,7 +127,7 @@ export const config = {
       name: "F1 News",
       url: "https://www.formula1.com/content/fom-website/en/latest/all.xml",
       category: "体育资讯",
-    }
+    },
   ],
   maxItemsPerFeed: 30,
   dataPath: "./public/data",
